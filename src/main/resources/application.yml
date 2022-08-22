@@ -1,0 +1,4 @@
+#配置端口
+spring:
+  profiles:
+    active: dev
